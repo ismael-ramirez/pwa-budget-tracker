@@ -17,17 +17,4 @@
 # Test
 `The project is deployed at heroku using Mongo DB Atlas and the link will be provide it just below.`
 
-## Check out my work on [chulopapi](https://github.com/chulopapi)
-
-# Contact 
-
-## Questions? please contact me via email at <marlon.guandique@gmail.com> 
-
-## The application has been deployed in Heroku: 
-
-## Click on the link [budget-tracker] (https://thawing-ridge-77385.herokuapp.com)
-
-## Web Samples
-
-1. <img width="983" alt="Screen Shot 2020-10-14 at 10 09 54 PM" src="https://user-images.githubusercontent.com/14985358/96392605-795c4980-1171-11eb-88db-fc07993862f8.png">
-2. <img width="1228" alt="Screen Shot 2020-10-14 at 10 18 21 PM" src="https://user-images.githubusercontent.com/14985358/96392601-75c8c280-1171-11eb-98fc-d9f9bf9f89bd.png">
+## Questions? please contact me via email at <ismael-ramirez@live.com> 
