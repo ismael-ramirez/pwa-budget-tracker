@@ -1,4 +1,4 @@
-# [Budget Tracker (PWA)](#Budget Tracker (PWA)) &middot; [![License:](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# PWA Budget Tracker(#Budget Tracker (PWA)) &middot; [![License:](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#usage)
