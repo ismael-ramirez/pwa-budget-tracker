@@ -25,7 +25,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 
 # Contribution
-`Any contribution is well received`
+Contribution well received.
 
 # Test
 None.`
