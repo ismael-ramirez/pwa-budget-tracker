@@ -1,4 +1,9 @@
 # PWA Budget Tracker [![License:](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Description
+An application used to track withdrawals and deposits with or without a data/internet connection
+for accurate account balance when traveling. 
+
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#usage)
@@ -9,12 +14,17 @@
 `Please clone the repository in order to run a local copy.`
 
 # Usage
-`The user will be able to add expenses and deposits to their mobile budget application with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. I used IndexedDB to add offline functionality and service worker to the application.  I also added a Web Manifest to the application with the app’s metadata, to let users’ devices know what they’re installing and how the app should look on the home screen.`  
+GIVEN a budget tracker without an internet connection
+WHEN the user inputs an expense or deposit
+THEN they will receive a notification that they have added an expense or deposit
+WHEN the user reestablishes an internet connection
+THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+
 
 # Contribution
 `Any contribution is well received`
 
 # Test
-`The project is deployed at heroku using Mongo DB Atlas and the link will be provide it just below.`
+None.`
 
 ## Questions? please contact me via email at <ismael-ramirez@live.com> 
