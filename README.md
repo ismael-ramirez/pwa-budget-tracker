@@ -11,7 +11,7 @@ for accurate account balance when traveling.
 * [Test](#Test)
 * [Questions](#Contact)
 # Installation
-`Please clone the repository in order to run a local copy.`
+Clone the repository to run a local copy.
 
 # Usage
 GIVEN a budget tracker without an internet connection
